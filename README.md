@@ -1,4 +1,4 @@
-# REST API를 이용한 Admin Page Api 제작
+# REST API를 이용한 Admin Page Api 제작 (개인 프로젝트)
 
 ## 01. 수행 프로젝트
 
